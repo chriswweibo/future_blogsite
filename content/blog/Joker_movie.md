@@ -3,7 +3,7 @@ categories:
 - Movie
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-image: images/masonary-post/joker_1.jpg
+images: img/post_imp/joker_1.jpg
 tags:
 - Movie
 - Joker
@@ -29,11 +29,11 @@ labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitatio
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
 
-![](../../images/masonary-post/joker_1.jpg)
-![](../../images/masonary-post/joker_2.jpg)
-![](../../images/masonary-post/joker_3.jpg)
-![](../../images/masonary-post/joker_4.jpg)
-![](../../images/masonary-post/joker_5.jpg)
+![](img/post_imp/joker_1.jpg)
+![](img/post_imp/joker_2.jpg)
+![](img/post_imp/joker_3.jpg)
+![](img/post_imp/joker_4.jpg)
+![](img/post_imp/joker_5.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
