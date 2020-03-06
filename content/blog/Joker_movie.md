@@ -3,7 +3,7 @@ categories:
 - Movie
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-images: img/post_img/joker_1.jpg
+image: img/post_img/joker_1.jpg
 tags:
 - Movie
 - Joker

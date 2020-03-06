@@ -3,7 +3,7 @@ categories:
 - Family
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-images: img/post_img//jianwen.jpg
+image: img/post_img//jianwen.jpg
 tags:
 - Son
 - Jianwen

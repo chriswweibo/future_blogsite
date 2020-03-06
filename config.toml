@@ -161,11 +161,11 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "chriswweibo/future_blogsite"
   #stackoverflow         = "" # User Number
   # Publishing Communities
   # Professional/Business Oriented Communities
-  linkedin              = "example"
+  linkedin              = "chrisbowei"
   # Social Networks
   facebook              = "example"
   #quora                 = ""
