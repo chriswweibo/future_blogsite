@@ -39,8 +39,8 @@ labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitatio
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
 
-![](img/post_img/stackedus_1.jpg)
-![](img/post_img/stackedus_2.jpg)
+![](/img/post_img/stackedus_1.jpg)
+![](/img/post_img/stackedus_2.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex

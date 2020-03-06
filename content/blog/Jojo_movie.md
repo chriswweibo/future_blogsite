@@ -41,14 +41,14 @@ labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitatio
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
 
-![](img/post_img/jojo_1.png)
-![](img/post_img/jojo_2.png)
-![](img/post_img/jojo_3.png)
-![](img/post_img/jojo_4.png)
-![](img/post_img/jojo_5.png)
-![](img/post_img/jojo_6.png)
-![](img/post_img/jojo_7.png)
-![](img/post_img/jojo_8.png)
+![](/img/post_img/jojo_1.png)
+![](/img/post_img/jojo_2.png)
+![](/img/post_img/jojo_3.png)
+![](/img/post_img/jojo_4.png)
+![](/img/post_img/jojo_5.png)
+![](/img/post_img/jojo_6.png)
+![](/img/post_img/jojo_7.png)
+![](/img/post_img/jojo_8.png)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
