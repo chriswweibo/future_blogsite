@@ -1,9 +1,9 @@
 baseurl                 = "https://mujian.cc/"
 DefaultContentLanguage  = "en"
-title                   = "Muqian & Jianwen"
+title                   = "Muqian, Jianwen, Chloe & Chris"
 theme = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 6
+paginate                = 4
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -94,12 +94,12 @@ disableLanguages        = [""]
   [params.staticman]
     # If using GitHub, go to https://github.com/apps/staticman-net
     # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
-    enabled             = false
+    enabled             = true
     api                 = ""  # without trailing slash, defaults to "staticman3.herokuapp.com"
     gitProvider         = "github"  # either "github" or "gitlab"
-    username            = ""
-    repo                = ""
-    branch              = ""
+    username            = "chriswweibo"
+    repo                = "future_blogsite"
+    branch              = "master"
 
     [params.staticman.recaptcha]
       # Both keys must be present to enable recaptcha
@@ -172,7 +172,7 @@ disableLanguages        = [""]
   youtube               = ""
   whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat              = ""
+    wechat              = "imchriswei"
     qq                  = "" # User ID Number
   instagram             = "example"
   twitter               = "example"
