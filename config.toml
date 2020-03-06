@@ -1,9 +1,9 @@
 baseurl                 = "https://mujian.cc/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Muqian & Jianwen"
 theme = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 3
+paginate                = 6
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -34,9 +34,9 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "Personal Blogsite"
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "Bo"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -49,7 +49,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Mujian.CC"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -59,8 +59,8 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "<a href='https://www.linkedin.com/in/chrisbowei/'>Bo Wei</a>"
+    paragraph             = "Data Scientist, Camper, and Father"
     rssIntro              = true
     socialIntro           = true
 
@@ -69,7 +69,7 @@ disableLanguages        = [""]
     [params.intro.pic]
       src                 = "/img/main/logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "circle"
+      shape               = "hexagon"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
 
@@ -151,156 +151,10 @@ disableLanguages        = [""]
     LanguageName        = "English"
     weight              = 1
 
-  [Languages.fr]
-    LanguageCode        = "fr"
-    LanguageName        = "Français"
-    title               = "Hugo Future Imperfect Slim en français"
-    description         = "Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."
-    weight              = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Accueil"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.fr.menu.main]]
-      name              = "About"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.fr.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.fr.menu.main]]
-      name              = "Catégories"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.fr.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.pl]
-    LanguageCode        = "pl"
-    LanguageName        = "Polski"
-    title               = "Hugo Future Imperfect Slim po polsku"
-    description         = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wielojęzyczny przez StatnMap. Zasilany przez Hugo."
-    weight              = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Home"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.pl.menu.main]]
-      name              = "O mnie"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.pl.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.pl.menu.main]]
-      name              = "Kategorie"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.pl.menu.main]]
-      name              = "Kontakt"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.pt]
-    LanguageCode        = "pt"
-    LanguageName        = "Português"
-    title               = "Hugo Future Imperfect Slim em português"
-    description         = "Um tema do HTML5 UP, portado por Julio Pescadora e reduzido por Patrick Collins. Multilíngue por StatnMap. Feito com Hugo."
-    weight              = 4
-
-    [[Languages.pt.menu.main]]
-      name              = "Início"
-      identifier        = "home"
-      url               = "/"
-      pre               = "<i class='fas fa-home'></i>"
-      weight            = 1
-
-    [[Languages.pt.menu.main]]
-      name              = "Sobre"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
-    [[Languages.pt.menu.main]]
-      name              = "Blog"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
-
-    [[Languages.pt.menu.main]]
-      name              = "Categorias"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
-
-    [[Languages.pt.menu.main]]
-      name              = "Contato"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-
-  [Languages.de]
-    LanguageCode        = "de"
-    LanguageName        = "Deutsche"
-    weight              = 5
-
-  [Languages.es]
-    LanguageCode        = "es"
-    LanguageName        = "Española"
-    weight              = 6
-
   [Languages.zh-CN]
     LanguageCode        = "zh-CN"
     LanguageName        = "中文"
-    weight              = 7
-
-  [Languages.zh-TW]
-    LanguageCode        = "zh-TW"
-    LanguageName        = "中文"
-    weight              = 8
-
-  [Languages.ja]
-    LanguageCode        = "ja"
-    LanguageName        = "日本語"
-    weight              = 9
+    weight              = 2
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
@@ -311,22 +165,11 @@ disableLanguages        = [""]
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = "example"
-  behance               = ""
-  dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
   linkedin              = "example"
-  linkedin_company      = "examplebusiness"
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = ""
   # Social Networks
   facebook              = "example"
   googleplus            = ""
@@ -346,10 +189,5 @@ disableLanguages        = [""]
   pinterest             = "example"
   telegram              = "example"
   vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
   # Email
-  email                 = "example"
+  email                 = "ckris@163.com"
