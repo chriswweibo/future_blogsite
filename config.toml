@@ -49,7 +49,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Mujian.CC"
+    navbarTitle         = "Muqian, Jianwen, Chloe & Chris"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -69,12 +69,12 @@ disableLanguages        = [""]
     [params.intro.pic]
       src                 = "/img/main/logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "hexagon"
+      shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "test"
+    about               = "Personal Blogsite"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
@@ -162,32 +162,20 @@ disableLanguages        = [""]
 [social]
   # Coding Communities
   github                = "pacollins/hugo-future-imperfect-slim"
-  gitlab                = ""
   stackoverflow         = "" # User Number
-  bitbucket             = ""
   # Publishing Communities
-  wordpress             = ""
-  medium                = ""
   # Professional/Business Oriented Communities
   linkedin              = "example"
   # Social Networks
   facebook              = "example"
-  googleplus            = ""
-  reddit                = "example"
   quora                 = ""
   youtube               = ""
-  vimeo                 = ""
   whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
   instagram             = "example"
-  tumblr                = ""
   twitter               = "example"
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = "example"
   telegram              = "example"
-  vine                  = ""
   # Email
   email                 = "ckris@163.com"
