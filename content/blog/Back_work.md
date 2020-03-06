@@ -6,7 +6,7 @@ categories:
 - Work
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-images: img/post_imp/backwork.jpg
+images: img/post_img/backwork.jpg
 tags:
 - Coronavirus
 - Son
@@ -41,10 +41,7 @@ labore et dolore magnam aliquam quaerat voluptatem.
 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
-
-
-![](../../images/masonary-post/backwork.jpg)
-![](../../images/masonary-post/sonBW.jpg)
+![](img/post_img/sonBW.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex

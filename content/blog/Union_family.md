@@ -3,7 +3,7 @@ categories:
 - Family
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-image: images/masonary-post/reunion.jpg
+images: img/post_img/reunion.jpg
 tags:
 - 2020
 - reunion

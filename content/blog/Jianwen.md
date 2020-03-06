@@ -3,7 +3,7 @@ categories:
 - Family
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-images: img/post_imp//jianwen.jpg
+images: img/post_img//jianwen.jpg
 tags:
 - Son
 - Jianwen
@@ -41,9 +41,9 @@ labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitatio
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
 
-![](../../images/featured-post/jianwen.jpg)
-![](../../images/featured-post/jianwen1.jpg)
-![](../../images/featured-post/jianwen2.jpg)
+![](img/post_img/jianwen.jpg)
+![](img/post_img/jianwen1.jpg)
+![](img/post_img/jianwen2.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex

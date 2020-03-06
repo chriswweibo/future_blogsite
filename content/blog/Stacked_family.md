@@ -3,7 +3,7 @@ categories:
 - Life
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-image: images/masonary-post/sons.jpg
+images: img/post_img/sons.jpg
 tags:
 - Son
 title: Stacked us
@@ -38,8 +38,8 @@ labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitatio
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
 
-![](../../images/masonary-post/stackedus_1.jpg)
-![](../../images/masonary-post/stackedus_2.jpg)
+![](img/post_img/stackedus_1.jpg)
+![](img/post_img/stackedus_2.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
