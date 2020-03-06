@@ -2,7 +2,7 @@
 categories:
 - Life
 date: "2019-05-14T14:46:10+06:00"
-description: This is meta description
+description: Fight with hope!
 images: 
 - img/post_img/newyear.jpg
 tags:
@@ -39,8 +39,8 @@ labore et dolore magnam aliquam quaerat voluptatem.
 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
-![](img/post_img/boat.jpg)
-![](img/post_img/newyear.jpg)
+![](../../static/img/post_img/boat.jpg)
+![](../../static/img/post_img/newyear.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
