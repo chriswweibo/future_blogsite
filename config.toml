@@ -71,22 +71,22 @@ disableLanguages        = [""]
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Hugo"
 
   [params.sidebar]
     about               = "Personal Blogsite"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    postAmount          = 5
+    postAmount          = 6
     # set to show or to hide categories in the sidebar
-    categories          = true
+    categories          = false
     # Sets Categories to sort by number of posts instead of alphabetical
-    categoriesByCount   = true
+    categoriesByCount   = false
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = true
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -94,7 +94,7 @@ disableLanguages        = [""]
   [params.staticman]
     # If using GitHub, go to https://github.com/apps/staticman-net
     # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
-    enabled             = true
+    enabled             = false
     api                 = ""  # without trailing slash, defaults to "staticman3.herokuapp.com"
     gitProvider         = "github"  # either "github" or "gitlab"
     username            = "chriswweibo"
@@ -121,28 +121,28 @@ disableLanguages        = [""]
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
+    weight            = 5
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
+    weight            = 2
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
+    weight            = 3
 
   [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+    weight            = 4
 
 [Languages]
   # Each language has its own menu.
@@ -162,20 +162,20 @@ disableLanguages        = [""]
 [social]
   # Coding Communities
   github                = "pacollins/hugo-future-imperfect-slim"
-  stackoverflow         = "" # User Number
+  #stackoverflow         = "" # User Number
   # Publishing Communities
   # Professional/Business Oriented Communities
   linkedin              = "example"
   # Social Networks
   facebook              = "example"
-  quora                 = ""
+  #quora                 = ""
   youtube               = ""
   whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
     wechat              = "imchriswei"
     qq                  = "" # User ID Number
-  instagram             = "example"
-  twitter               = "example"
-  telegram              = "example"
+  #instagram             = "example"
+  #twitter               = "example"
+  #telegram              = "example"
   # Email
   email                 = "ckris@163.com"
