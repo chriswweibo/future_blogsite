@@ -53,7 +53,7 @@ disableLanguages        = [""]
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = true
+    shareMenu           = false
     languageMenu        = true
 
   # These are optional params related to the sidebar. They are recommended, but not
