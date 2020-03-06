@@ -5,8 +5,8 @@ contactlang: en
 contactmessage: Your Message
 contactname: Your name
 contactsubject: Subject
-emailservice: formspree.io/example@email.com
-netlify: false
+emailservice: ckris@163.com
+netlify: true
 title: Contact
 type: contact
 ---
