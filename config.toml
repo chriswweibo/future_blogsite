@@ -178,4 +178,4 @@ disableLanguages        = [""]
   #twitter               = "example"
   #telegram              = "example"
   # Email
-  #email                 = "ckris@163.com"
+  email                 = "ckris@163.com"
