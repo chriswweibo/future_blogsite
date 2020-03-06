@@ -3,7 +3,8 @@ categories:
 - Life
 date: "2019-05-14T14:46:10+06:00"
 description: This is meta description
-image: img/post_img/post-5.jpg
+images: 
+- img/post_img/post-5.jpg
 tags:
 - Australia
 - Immigration
