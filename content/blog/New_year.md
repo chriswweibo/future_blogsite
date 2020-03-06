@@ -3,6 +3,7 @@ categories:
 - Life
 date: "2019-05-14T14:46:10+06:00"
 description: Fight with hope!
+banner: img/post_img/boat.jpg
 images: 
 - img/post_img/boat.jpg
 tags:
