@@ -74,7 +74,7 @@ disableLanguages        = [""]
       alt                 = "Hugo"
 
   [params.sidebar]
-    about               = "Personal Blogsite"
+    #about               = "Personal Blogsite"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 6
     # set to show or to hide categories in the sidebar
@@ -84,7 +84,7 @@ disableLanguages        = [""]
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
-    rssFooter           = true
+    rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
     socialFooter        = false
 
