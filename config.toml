@@ -2,7 +2,7 @@ baseurl                 = "https://mujian.cc/"
 DefaultContentLanguage  = "en"
 title                   = "Muqian, Jianwen, Chloe & Chris"
 theme = "hugo-future-imperfect-slim"
-preserveTaxonomyNames   = true
+preserveTaxonomyNames   = false
 paginate                = 4
 disqusShortname         = ""
 googleAnalytics         = ""
@@ -37,7 +37,7 @@ disableLanguages        = [""]
     # Sets the meta tag description
     description         = "Personal Blogsite"
     # Sets the meta tag author
-    author              = "Bo"
+    author              = "Bo Wei"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -50,18 +50,18 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Muqian, Jianwen, Chloe & Chris"
+    navbarTitle         = "Mujian.cc"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = true
+    shareMenu           = false
     languageMenu        = true
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "<a href='https://www.linkedin.com/in/chrisbowei/'>Bo Wei</a>"
-    paragraph             = "Data Scientist, Camper, and Father"
+    header                = "Muqian, Jianwen, Chloe & Chris"
+    paragraph             = "Maintained by <a href='https://www.linkedin.com/in/chrisbowei/'>Bo</a>"
     rssIntro              = true
     socialIntro           = true
 
