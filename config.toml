@@ -1,6 +1,6 @@
 baseurl                 = "https://mujian.cc/"
 DefaultContentLanguage  = "en"
-title                   = "Muqian, Jianwen, Chloe & Chris"
+title                   = "Maximillian, Geriant, Chloe & Chris"
 theme = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = false
 paginate                = 4
